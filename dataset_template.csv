@@ -1,0 +1,6 @@
+prompt_id,domain,prompt_text,model_a_score,model_b_score,winner,rationale
+1,reasoning,"If it takes 2 hours to dry 1 shirt, how long for 3 shirts?",5,2,Model A,"Model A correctly identified simultaneous drying. Model B multiplied by 3."
+2,coding,"Write a Python function to reverse a string.",5,4,Model A,"Model A used optimal slicing. Model B used a slower loop method."
+3,factual,"Who was the 16th US President?",5,5,Tie,"Both models accurately identified Abraham Lincoln with no fluff."
+4,creative,"Write a haiku about a server crashing.",4,2,Model A,"Model A followed the 5-7-5 structure perfectly. Model B wrote 4 lines."
+5,reasoning,"Which is heavier, a pound of feathers or a pound of steel?",5,5,Tie,"Both successfully identified they weigh the same."
