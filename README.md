@@ -9,3 +9,12 @@ An end-to-end evaluation pipeline assessing Large Language Model (LLM) outputs a
 
 ## Methodology
 Each prompt was evaluated blindly against two model outputs. Scores were assigned based on accuracy, constraint adherence, and formatting. A detailed rationale accompanies each score to justify the grading and capture nuanced model hallucinations or omissions.
+
+
+## Performance Visualizations
+
+### Overall Win Rate
+![Win Rate Distribution](win_rate.png)
+
+### Performance by Domain
+![Domain Scores](domain_scores.png)
